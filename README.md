@@ -1,4 +1,4 @@
-# Hack The Box Methodology
+# Hack The Box Workflow
 
 The following describes my go-to approach when starting on a new box on hackthebox.eu. At the moment it's targeted at doing linux boxes since my experience with Windows servers is still somewhat limited.
 
